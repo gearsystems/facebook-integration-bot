@@ -2,11 +2,10 @@
 
 *Facebook Integration Bot*
 
-About:
-
+### About:
 A java servlet which communicates with facebook graph api to register complaints automatically
 
-Requirements:
+### Requirements:
 
 -JDBC Driver Library
 
